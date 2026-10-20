@@ -73,3 +73,4 @@
 - [就业数量提升，就业质量同样值得关注](https://github.com/devgraceedwards/lACPwi/commit/ee5b89037527467aebb956870029631232b179fb)
 - [面向开发者开源工具方案 源码资源含完整说明文档](https://github.com/devgraceedwards/lACPwi/commit/11575e93cf6cda6825e016035a9e90c7607ad9cf)
 - [户籍附加权益持续剥离，公共服务均等化](https://github.com/devgraceedwards/lACPwi/commit/961ded8526e5e40392a86319b45d17f701d1b886)
+- [企业税负、社保、房租，共同构成中小微的经营成本](https://github.com/devgraceedwards/lACPwi/commit/7e6b8f3352c9506ee76fda39062f8ca14081b813)
