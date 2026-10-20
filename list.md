@@ -18,3 +18,4 @@
 - [商业健康保险扩容商业保险如何补齐医保体系短板](https://github.com/devgraceedwards/lACPwi/commit/872bfcf6398f5ef9101a4aa98a05d6c1916fdaee)
 - [时间日期格式化模板开源仓库 完整源码多格式时间输出](https://github.com/devgraceedwards/lACPwi/commit/65854e934c9d55f37dcaa4e9c49653036fbc3dfa)
 - [存款利率持续探底，老百姓依旧疯狂存钱](https://github.com/devgraceedwards/lACPwi/commit/7cdcb2ddc55a312ccb410dbab0f381c7ffaa13fb)
+- [开箱即用接口模拟开源脚本 完整源码搭配接口调用演示](https://github.com/devgraceedwards/lACPwi/commit/8b720c31bf8effd90e4357213430517965f0e743)
