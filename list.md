@@ -33,3 +33,4 @@
 - [户用光伏市场调整补贴退坡之后行业如何寻找内生增长动力](https://github.com/devgraceedwards/lACPwi/commit/e92ca45e62d5d4207f807a5e5a1b9cb5e7cde4d3)
 - [PDF 文本提取 Demo 完整源码提取 PDF 文档文字内容](https://github.com/devgraceedwards/lACPwi/commit/8fd01e6d51d384bb827859939c8e84a39df46388)
 - [钢铁行业限产预期出台能否带动钢价与企业盈利修复](https://github.com/devgraceedwards/lACPwi/commit/2d2dc5a8f62f468cebe225f8dc594d9052779b04)
+- [postgresql表注释批量导出，批量导出数据表字段注释信息](https://github.com/devgraceedwards/lACPwi/commit/3bf986ed367f18903b8f6b5bb3b84f7813f6a29f)
