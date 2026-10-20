@@ -59,3 +59,4 @@
 - [github组织仓库访问审计导出，统计各仓库用户访问权限汇总](https://github.com/devgraceedwards/lACPwi/commit/1e8b832e6b9e2f0788f0c5aa52417bdef40609cf)
 - [轻量化空间Web应用，WebXR浏览器性能瓶颈](https://github.com/devgraceedwards/lACPwi/commit/101a1567af840e5360b0f459341aedc2f9fc311a)
 - [可移植开源功能组件库 源码资源含跨环境测试演示工程](https://github.com/devgraceedwards/lACPwi/commit/8607c51c55139c3f0f8826014096a290ca8e0a17)
+- [卫星应用场景拓展卫星互联网赋能农林渔业多领域](https://github.com/devgraceedwards/lACPwi/commit/64c7c57a0b39357086db60abe7f518c6d2488a74)
