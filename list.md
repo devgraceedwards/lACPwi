@@ -111,3 +111,4 @@
 - [港股持续反弹，普通投资者慎追高](https://github.com/devgraceedwards/lACPwi/commit/2ff680f3ad3984f47c8a91c5f33af630ac1d9460)
 - [高质量实战开源组件仓库 完整实现包含扩展改造开发教程](https://github.com/devgraceedwards/lACPwi/commit/3139123b6053d81e44cdcc55805e7ba24b6637ad)
 - [企业利润创下新高，股价却一路节节败退](https://github.com/devgraceedwards/lACPwi/commit/927c0118176dd79c038cdd700f234817a3976ca5)
+- [系统open文件监控工具，实时监控进程打开关闭文件事件](https://github.com/devgraceedwards/lACPwi/commit/45dedcbb23ef72749f15aa65f3bef21583654955)
