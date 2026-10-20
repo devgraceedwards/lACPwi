@@ -138,3 +138,4 @@
 - [预制菜国标落地行业规范化加速中小厂商加速出清](https://github.com/devgraceedwards/lACPwi/commit/fae440616c0436f57f0fb424782e11188b511db1)
 - [图片批量色彩反转工具，批量对图片做颜色反相处理](https://github.com/devgraceedwards/lACPwi/commit/df6a92ee81b06b1e0194f5eb2918f9838e6f1b40)
 - [pdf批量元数据清除工具，清空pdf标题作者等元数据信息](https://github.com/devgraceedwards/lACPwi/commit/b20f4ea769c37dfe47c55c644e1abcc36cfb67bf)
+- [制造业数字化改造，中小企业资金人才双重难题](https://github.com/devgraceedwards/lACPwi/commit/6c7e5fbabf7f42367b6564389ebbd77c8ee04c4c)
