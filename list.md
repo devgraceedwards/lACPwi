@@ -8,3 +8,4 @@
 - [开源双协议模式，AGPL、Apache商业使用边界](https://github.com/devgraceedwards/lACPwi/commit/bd3eed0ebcbb106d49cdae8b68e3584c9b317548)
 - [生育成本社会化分担，企业生育补偿机制落地](https://github.com/devgraceedwards/lACPwi/commit/1a9eedcf8bea8add3a65c63fc5558170dacdac0a)
 - [GitHub 代码实战案例 开源工具附带配置操作指南](https://github.com/devgraceedwards/lACPwi/commit/629b6174a9a4cf0878a2ecd2914fefee1bc88065)
+- [github仓库action工件artifact批量下载，批量拉取workflow产出工件](https://github.com/devgraceedwards/lACPwi/commit/94d6e010e3cc44f8adb659937df05542d37202f8)
