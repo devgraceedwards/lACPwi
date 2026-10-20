@@ -195,3 +195,4 @@
 - [AI项目全成本核算，标注人力隐性成本统计](https://github.com/devgraceedwards/lACPwi/commit/7c71584064d8bdd78caa4cdfab55a0e1171a12e1)
 - [代码知识库构建，大型私有仓库代码知识图谱](https://github.com/devgraceedwards/lACPwi/commit/f5219ad265ea484c2da5fa2686d06316cf5cb052)
 - [大家都劝分散投资，很多人分散等于乱买一通](https://github.com/devgraceedwards/lACPwi/commit/da33e96ab7c26872567782576daf3fcdf8bb6d3c)
+- [睡眠保单清理，沉睡保险保单处置常态化](https://github.com/devgraceedwards/lACPwi/commit/32b887e055bb90a0d6e38cccec23efca04c796ad)
