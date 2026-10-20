@@ -199,3 +199,4 @@
 - [美债消息反复刷屏，不要被短期消息干扰判断](https://github.com/devgraceedwards/lACPwi/commit/80cbfd8e2cf19328df7c0d864ee7e117eaf58cae)
 - [第三方Marketplace Action植入后门，审计手段](https://github.com/devgraceedwards/lACPwi/commit/c460ccd8d79d4d0fb38bbfb5dcf981d8017bf7b7)
 - [整体家居一体化趋势家居企业向全屋解决方案转型](https://github.com/devgraceedwards/lACPwi/commit/42f5a3d2cd057d16cc2df2976998024825fff5b6)
+- [hosts黑名单批量导入工具，批量导入域名黑名单写入hosts](https://github.com/devgraceedwards/lACPwi/commit/69e06a2ab22f1a771da335766a18b13e1f3bda89)
