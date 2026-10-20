@@ -12,3 +12,4 @@
 - [github仓库批量镜像备份脚本，批量镜像备份用户或组织全部仓库](https://github.com/devgraceedwards/lACPwi/commit/fc480f15d82ba21d5651f3256c58d24026270bc5)
 - [开源社区模型版本混乱，同名不同权重识别难题](https://github.com/devgraceedwards/lACPwi/commit/036d2a1bb725ad0ff1f261ea37748003d10e0c20)
 - [信托行业加速转型传统地产信托萎缩发力服务实体与标品业务](https://github.com/devgraceedwards/lACPwi/commit/d8728f543d373feb14b36a9ca8263f03b4ae8f89)
+- [GitHub仓库Dependabot安全告警汇总报表](https://github.com/devgraceedwards/lACPwi/commit/c2db3298243e29985eb66996358853c904eca160)
