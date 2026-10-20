@@ -187,3 +187,4 @@
 - [外资大举流入，散户还在恐慌割肉](https://github.com/devgraceedwards/lACPwi/commit/d67d8f25d0b5323b90852f2550ffdf2409714555)
 - [民间消费的潜力巨大，但是需要配套条件释放](https://github.com/devgraceedwards/lACPwi/commit/feb47413a719940b67708b3d43970174349d1609)
 - [github issue批量锁定解锁脚本，批量锁定或者解锁issue讨论](https://github.com/devgraceedwards/lACPwi/commit/6ee2b4fb331887cc8d4ef8ec7b576f8fe72b032a)
+- [城市流浪猫犬TNR模式推广，治理现实争议](https://github.com/devgraceedwards/lACPwi/commit/3f74325918b1a7bfbb8ce44eafac95ed3b7705e5)
