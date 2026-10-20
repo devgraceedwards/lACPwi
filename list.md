@@ -47,3 +47,4 @@
 - [电竞产业商业化提速赛事周边带动全新消费市场](https://github.com/devgraceedwards/lACPwi/commit/a241c0d0dab1fe7ac8296479746c04792f9b2ecb)
 - [MQ 消息重试处理开源 Demo 完整源码消息消费失败重试逻辑](https://github.com/devgraceedwards/lACPwi/commit/01dc6549bf2186cea1a1340946ebc74fbee7b874)
 - [LFU 缓存手写 Demo 完整源码频率淘汰缓存实现](https://github.com/devgraceedwards/lACPwi/commit/fffe352bf6c5fe502362c5203e9865e060ca59f2)
+- [多实例任务互斥锁源码 完整源码避免多服务重复执行任务](https://github.com/devgraceedwards/lACPwi/commit/ae4c419daa06aeb136996f21404866f215746297)
