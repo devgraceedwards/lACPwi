@@ -189,3 +189,4 @@
 - [github issue批量锁定解锁脚本，批量锁定或者解锁issue讨论](https://github.com/devgraceedwards/lACPwi/commit/6ee2b4fb331887cc8d4ef8ec7b576f8fe72b032a)
 - [城市流浪猫犬TNR模式推广，治理现实争议](https://github.com/devgraceedwards/lACPwi/commit/3f74325918b1a7bfbb8ce44eafac95ed3b7705e5)
 - [Gitee 镜像站点抓取诊断百度站长平台操作](https://github.com/devgraceedwards/lACPwi/commit/6162d43b7790158f2eaa91bdcae36f0534bebff6)
+- [跨境理财通业务扩容内地居民跨境资产配置渠道拓宽](https://github.com/devgraceedwards/lACPwi/commit/fbbb508ec0090de40bd7ba4f0be43ad63989d4d5)
