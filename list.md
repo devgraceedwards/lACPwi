@@ -63,3 +63,4 @@
 - [网络文学IP商业化多元IP衍生打开文娱产业增长空间](https://github.com/devgraceedwards/lACPwi/commit/65c1faca02a5cac5de305a421e50b1bec0329e73)
 - [农产品溯源体系全覆盖，食品安全全程可查](https://github.com/devgraceedwards/lACPwi/commit/6fc51aae1e16c3e96bdcdd1545d880499159a799)
 - [消息队列工具开源源码合集 分步部署流程与运行报错汇总整理](https://github.com/devgraceedwards/lACPwi/commit/27b2814a2f13ee838ac84cd55c9b0e8981bff460)
+- [都说要搞副业，副业正在收割普通人](https://github.com/devgraceedwards/lACPwi/commit/a93f31a0bfb2e14eb60f85a4a175bfec3a46a7a4)
