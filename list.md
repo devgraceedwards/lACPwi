@@ -54,3 +54,4 @@
 - [文本相似度打分工程 完整源码计算两段文本相似分值](https://github.com/devgraceedwards/lACPwi/commit/3ad082f888ffc49c6fbdcb81a37a080df88b3928)
 - [宏观政策的传导链条长，政策效果不会立刻显现](https://github.com/devgraceedwards/lACPwi/commit/cd92c85ba4bc95badedf480533082ae9dd762257)
 - [powershell文件校验比对模板，递归计算目录哈希做文件校验](https://github.com/devgraceedwards/lACPwi/commit/30b951a1f08475838d88c48656c6e8d262ccbfd8)
+- [人民币大涨，你的钱包未必能受益](https://github.com/devgraceedwards/lACPwi/commit/897ba36f0ba7470d274295afc31ca55da5a24dcd)
