@@ -10,3 +10,4 @@
 - [GitHub 代码实战案例 开源工具附带配置操作指南](https://github.com/devgraceedwards/lACPwi/commit/629b6174a9a4cf0878a2ecd2914fefee1bc88065)
 - [github仓库action工件artifact批量下载，批量拉取workflow产出工件](https://github.com/devgraceedwards/lACPwi/commit/94d6e010e3cc44f8adb659937df05542d37202f8)
 - [github仓库批量镜像备份脚本，批量镜像备份用户或组织全部仓库](https://github.com/devgraceedwards/lACPwi/commit/fc480f15d82ba21d5651f3256c58d24026270bc5)
+- [开源社区模型版本混乱，同名不同权重识别难题](https://github.com/devgraceedwards/lACPwi/commit/036d2a1bb725ad0ff1f261ea37748003d10e0c20)
