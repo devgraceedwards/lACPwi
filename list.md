@@ -129,3 +129,4 @@
 - [音频音频声道转换工具，批量实现单声道立体声互相转换](https://github.com/devgraceedwards/lACPwi/commit/72dbfe55e23caff6b811ee6ccca98d2f8d1e60d0)
 - [单元测试练习开源工程 完整源码附带多场景测试用例](https://github.com/devgraceedwards/lACPwi/commit/5998f2a5f3279489d99874f0abe5da46ad36878a)
 - [7z 压缩包处理源码 完整源码 7z 格式压缩解压逻辑](https://github.com/devgraceedwards/lACPwi/commit/354ca3b9b0e90db19d523663b0f88a692703a1c4)
+- [跨境产业链重构，国内企业需要重新找准自身定位](https://github.com/devgraceedwards/lACPwi/commit/50c71c7d6611a880801b77e2f257a3db37aa6972)
