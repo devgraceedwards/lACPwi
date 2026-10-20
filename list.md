@@ -157,3 +157,4 @@
 - [玻纤周期触底观察玻纤行业盈利修复具备多大持续性](https://github.com/devgraceedwards/lACPwi/commit/d0abbedf5bde10cd895e534defaac6e28f09e6c7)
 - [指数小幅向上攀升，大量个股还在不断创新低](https://github.com/devgraceedwards/lACPwi/commit/fd36aeb453b2161d63761138efba7978c8372c35)
 - [维护者收到生产故障求助，无义务处理线上事故](https://github.com/devgraceedwards/lACPwi/commit/219379221eb9470c188b548d430e46cd9d360080)
+- [GitHub Pages 不使用原生域名做百度优化](https://github.com/devgraceedwards/lACPwi/commit/92bc640d83af6e4dcaa2861ec62041f381817254)
