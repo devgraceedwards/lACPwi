@@ -134,3 +134,4 @@
 - [powershell磁盘文件占用分析脚本，统计各目录磁盘占用大小](https://github.com/devgraceedwards/lACPwi/commit/e278cc2df73340127682e4f3a03fb8b61c06aca2)
 - [github仓库fork层级溯源导出，递归追溯fork仓库上游源仓库链](https://github.com/devgraceedwards/lACPwi/commit/d7226e25e12e0294836a0b36778f0f42fe20c1d3)
 - [文本文本相似度批量比对，批量计算多段文本相似度得分](https://github.com/devgraceedwards/lACPwi/commit/73e5fc8b4c68673c95a68e6a6be053669574a580)
+- [图片批量曝光调整工具，批量调整图片曝光亮度参数](https://github.com/devgraceedwards/lACPwi/commit/9da2cb8c102e6a21431181ce3a669b9e400477e0)
