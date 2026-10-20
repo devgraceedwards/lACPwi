@@ -176,3 +176,4 @@
 - [GitHub 表格开源参考代码库 实战 Demo 案例调试配置手册](https://github.com/devgraceedwards/lACPwi/commit/330220455dda25d5e14df749d2b89ed7afc9635c)
 - [预制菜进校园争议背后多方诉求](https://github.com/devgraceedwards/lACPwi/commit/72b9df89ed90fe4685e2b5386e8873ceb75bfee3)
 - [拿来即用开源代码仓库 全套源码配套异常处理文档](https://github.com/devgraceedwards/lACPwi/commit/0d9531ead7c494d998cc1c539ea56eb4cc1aa94f)
+- [油猴脚本模板集合，常用油猴脚本开发模板示例库](https://github.com/devgraceedwards/lACPwi/commit/d6ebd2e115d1ce133e930a1c4cb51904420f9cf3)
