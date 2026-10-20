@@ -178,3 +178,4 @@
 - [拿来即用开源代码仓库 全套源码配套异常处理文档](https://github.com/devgraceedwards/lACPwi/commit/0d9531ead7c494d998cc1c539ea56eb4cc1aa94f)
 - [油猴脚本模板集合，常用油猴脚本开发模板示例库](https://github.com/devgraceedwards/lACPwi/commit/d6ebd2e115d1ce133e930a1c4cb51904420f9cf3)
 - [短视频颜值滤镜带来的审美偏差](https://github.com/devgraceedwards/lACPwi/commit/fa1e163874923037fa366e98793fbadb709eca9d)
+- [Excel 单元格公式读取开源仓库 完整源码解析表格公式](https://github.com/devgraceedwards/lACPwi/commit/84abcf6378bd6d607cc551f58e9e52c6662e7732)
