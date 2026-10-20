@@ -32,3 +32,4 @@
 - [算力概念炒上天，绝大多数人吃不到红利](https://github.com/devgraceedwards/lACPwi/commit/4437ef592be2c5698b152dad99ffac18ca239c22)
 - [户用光伏市场调整补贴退坡之后行业如何寻找内生增长动力](https://github.com/devgraceedwards/lACPwi/commit/e92ca45e62d5d4207f807a5e5a1b9cb5e7cde4d3)
 - [PDF 文本提取 Demo 完整源码提取 PDF 文档文字内容](https://github.com/devgraceedwards/lACPwi/commit/8fd01e6d51d384bb827859939c8e84a39df46388)
+- [钢铁行业限产预期出台能否带动钢价与企业盈利修复](https://github.com/devgraceedwards/lACPwi/commit/2d2dc5a8f62f468cebe225f8dc594d9052779b04)
