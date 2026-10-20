@@ -36,3 +36,4 @@
 - [postgresql表注释批量导出，批量导出数据表字段注释信息](https://github.com/devgraceedwards/lACPwi/commit/3bf986ed367f18903b8f6b5bb3b84f7813f6a29f)
 - [简单分页逻辑开源 Demo 完整源码演示后端分页实现方案](https://github.com/devgraceedwards/lACPwi/commit/34d68249a25e84484b54b790b44d6bd6efa884fb)
 - [Actions第三方市场Action安全隐患，恶意Action窃取数据](https://github.com/devgraceedwards/lACPwi/commit/14ca7208ee7ab25e5f33f09230a88fb96b6b88af)
+- [Fork之后社区接管，继任维护者交接流程](https://github.com/devgraceedwards/lACPwi/commit/4af4c10213cee994ab9ed38d4dc1c604a66a6585)
