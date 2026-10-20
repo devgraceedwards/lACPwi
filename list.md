@@ -140,3 +140,4 @@
 - [pdf批量元数据清除工具，清空pdf标题作者等元数据信息](https://github.com/devgraceedwards/lACPwi/commit/b20f4ea769c37dfe47c55c644e1abcc36cfb67bf)
 - [制造业数字化改造，中小企业资金人才双重难题](https://github.com/devgraceedwards/lACPwi/commit/6c7e5fbabf7f42367b6564389ebbd77c8ee04c4c)
 - [PoC Proof‑of‑Concept上传GitHub，平台风控策略](https://github.com/devgraceedwards/lACPwi/commit/517cca8ba86d8ffe549e694920db816ef0281c71)
+- [Digest 摘要认证开源工程 完整源码摘要防窃听身份校验](https://github.com/devgraceedwards/lACPwi/commit/4901c265e6718b04fd8f3742dd2a31892ebef34c)
