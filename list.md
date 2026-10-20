@@ -128,3 +128,4 @@
 - [正则批量替换开源工程 完整源码批量完成文本正则替换](https://github.com/devgraceedwards/lACPwi/commit/b62f76a6a69603290475817813819450530d27b4)
 - [音频音频声道转换工具，批量实现单声道立体声互相转换](https://github.com/devgraceedwards/lACPwi/commit/72dbfe55e23caff6b811ee6ccca98d2f8d1e60d0)
 - [单元测试练习开源工程 完整源码附带多场景测试用例](https://github.com/devgraceedwards/lACPwi/commit/5998f2a5f3279489d99874f0abe5da46ad36878a)
+- [7z 压缩包处理源码 完整源码 7z 格式压缩解压逻辑](https://github.com/devgraceedwards/lACPwi/commit/354ca3b9b0e90db19d523663b0f88a692703a1c4)
