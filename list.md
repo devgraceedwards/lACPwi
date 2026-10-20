@@ -27,3 +27,4 @@
 - [PWA本地大模型离线应用，模型增量更新策略](https://github.com/devgraceedwards/lACPwi/commit/00f192eae7312036c41a7bf9a11f3c3b7fe3013d)
 - [GitHub 表格演示开源源码库 项目案例配套多环境适配文档](https://github.com/devgraceedwards/lACPwi/commit/d8694e5bd361278494d9d8b2e6a965048f24c970)
 - [高股息也会大跌，别把红利当成避风港](https://github.com/devgraceedwards/lACPwi/commit/a64bb56260ae99b05475ba07c66ed7b47fa16a71)
+- [老年数字反诈骗课堂，识别AI伪造诈骗手段](https://github.com/devgraceedwards/lACPwi/commit/2394abbe02931929302a905f898c1afa33f4d6f7)
