@@ -161,3 +161,4 @@
 - [企业生存压力加大，倒逼行业加速优胜劣汰](https://github.com/devgraceedwards/lACPwi/commit/aebcbd2bfdb83560bdf80cfc65cba3efcdcd2348)
 - [Rebase强制推送，公共分支被改写造成团队冲突](https://github.com/devgraceedwards/lACPwi/commit/6b11f8e4d8acb8da26b1010c2c068a43232e2d1c)
 - [git reflog过期记录清理脚本，批量清理过期reflog历史记录](https://github.com/devgraceedwards/lACPwi/commit/d67382e2dc8a40b7dbd8dad644819e4bad7bf7b8)
+- [殡葬服务市场化监管，天价殡葬乱象整治](https://github.com/devgraceedwards/lACPwi/commit/57ff28578820a6a19177d384ec686e3e5f22709f)
