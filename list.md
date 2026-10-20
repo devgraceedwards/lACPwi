@@ -30,3 +30,4 @@
 - [老年数字反诈骗课堂，识别AI伪造诈骗手段](https://github.com/devgraceedwards/lACPwi/commit/2394abbe02931929302a905f898c1afa33f4d6f7)
 - [智慧社区摄像头数据安全隐患](https://github.com/devgraceedwards/lACPwi/commit/0169feb4d9f91fca5eacf4cb075e477681b51752)
 - [算力概念炒上天，绝大多数人吃不到红利](https://github.com/devgraceedwards/lACPwi/commit/4437ef592be2c5698b152dad99ffac18ca239c22)
+- [户用光伏市场调整补贴退坡之后行业如何寻找内生增长动力](https://github.com/devgraceedwards/lACPwi/commit/e92ca45e62d5d4207f807a5e5a1b9cb5e7cde4d3)
