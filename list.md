@@ -5,3 +5,4 @@
 - [双仓部署绕过 github.io 百度蜘蛛拦截限制](https://github.com/devgraceedwards/lACPwi/commit/556f61ac29c7309dd67d86cf3e75a751b19302be)
 - [数据场景开源实战合集 完整工程附带环境分步搭建教程](https://github.com/devgraceedwards/lACPwi/commit/3d2003c61f3001fea2edddcfe6ca6703cdb1210e)
 - [Markdown 文档站内链接布局引导爬虫遍历](https://github.com/devgraceedwards/lACPwi/commit/6e8ec4b18a6b26f90b8590aa84c368fbc22c13ea)
+- [开源双协议模式，AGPL、Apache商业使用边界](https://github.com/devgraceedwards/lACPwi/commit/bd3eed0ebcbb106d49cdae8b68e3584c9b317548)
