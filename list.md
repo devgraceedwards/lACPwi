@@ -166,3 +166,4 @@
 - [微短剧红利逐步消退，新人入场很难分得蛋糕](https://github.com/devgraceedwards/lACPwi/commit/b3bd39279da9806b05bd15f2d07f1c87b2f20fdd)
 - [简单滑动窗口限流开源工程 完整源码演示滑动窗口限流算法](https://github.com/devgraceedwards/lACPwi/commit/717e48f925ab19394e0d3f2aed6682ff2eca4e13)
 - [部分新兴概念，距离大规模商业化落地还有很长距离](https://github.com/devgraceedwards/lACPwi/commit/e4b962cd8f984782c516976fcc28222ad17bd78e)
+- [APP过度索取权限，如何拒绝APP不合理权限申请](https://github.com/devgraceedwards/lACPwi/commit/85c71b1a4936c8d00310513ace6272f31c4ec335)
