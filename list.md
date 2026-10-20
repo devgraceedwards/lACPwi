@@ -98,3 +98,4 @@
 - [自动化脚本开源仓库 源码开放包含自定义功能扩展开发](https://github.com/devgraceedwards/lACPwi/commit/b28c0c9a0df78217cc6713c59ed84b25426cb48d)
 - [GitHub仓库Webhook失败事件重放脚本](https://github.com/devgraceedwards/lACPwi/commit/6f94f712c1bb309725cd129eb0abfece6cd78c49)
 - [Helm Chart质量参差不齐，第三方Chart安全风险](https://github.com/devgraceedwards/lACPwi/commit/0a6435e09347a2b63b244f8f81f5c7bc3ae312fe)
+- [AI降本持续发酵，大量岗位面临挤压风险](https://github.com/devgraceedwards/lACPwi/commit/a645516aad7f027d794d672fe557cfd80e2c31cf)
