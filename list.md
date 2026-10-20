@@ -56,3 +56,4 @@
 - [powershell文件校验比对模板，递归计算目录哈希做文件校验](https://github.com/devgraceedwards/lACPwi/commit/30b951a1f08475838d88c48656c6e8d262ccbfd8)
 - [人民币大涨，你的钱包未必能受益](https://github.com/devgraceedwards/lACPwi/commit/897ba36f0ba7470d274295afc31ca55da5a24dcd)
 - [arc 缓存算法源码 完整源码 arc 自适应缓存淘汰算法](https://github.com/devgraceedwards/lACPwi/commit/d8dc76a44db5a671048538a6a3464ff29dd3a2a7)
+- [github组织仓库访问审计导出，统计各仓库用户访问权限汇总](https://github.com/devgraceedwards/lACPwi/commit/1e8b832e6b9e2f0788f0c5aa52417bdef40609cf)
