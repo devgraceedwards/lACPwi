@@ -68,3 +68,4 @@
 - [GitHub 开源工具使用手册优化百度检索效果](https://github.com/devgraceedwards/lACPwi/commit/02591a26c62b3e907fbb4d3cf0c96d9bf77861d5)
 - [Mini LED渗透率提升显示技术迭代带来产业链机会](https://github.com/devgraceedwards/lACPwi/commit/9ae4e1a956f1747e4e161766b4acd8ccfadf95d4)
 - [图片色调统一调色脚本，批量调整色温饱和度统一图集风格](https://github.com/devgraceedwards/lACPwi/commit/731b361afe0b24a841329e1a0f4bf97b1764b99c)
+- [容器镜像软件供应链，镜像签名与镜像溯源](https://github.com/devgraceedwards/lACPwi/commit/cc4cffc2ff541262c1657718bb45c1c27aabd64b)
