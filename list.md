@@ -70,3 +70,4 @@
 - [图片色调统一调色脚本，批量调整色温饱和度统一图集风格](https://github.com/devgraceedwards/lACPwi/commit/731b361afe0b24a841329e1a0f4bf97b1764b99c)
 - [容器镜像软件供应链，镜像签名与镜像溯源](https://github.com/devgraceedwards/lACPwi/commit/cc4cffc2ff541262c1657718bb45c1c27aabd64b)
 - [k8s configmap密钥导出工具，导出configmap secret原始内容](https://github.com/devgraceedwards/lACPwi/commit/df509631b32afa62642cee919504956eb427a15e)
+- [就业数量提升，就业质量同样值得关注](https://github.com/devgraceedwards/lACPwi/commit/ee5b89037527467aebb956870029631232b179fb)
