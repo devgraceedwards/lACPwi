@@ -92,3 +92,4 @@
 - [可穿戴设备本地SLM，隐私优先终端智能落地](https://github.com/devgraceedwards/lACPwi/commit/b31e6f3a0fdeea0666f34b00a93d6d6a88338aab)
 - [都在教普通人守本金，可亏钱的依旧是普通人](https://github.com/devgraceedwards/lACPwi/commit/ac62462d9da94d5e4a2fc9e67cb1a4e3208af527)
 - [GitHub 业务实战源码仓库 项目案例配套生产环境适配文档](https://github.com/devgraceedwards/lACPwi/commit/5ab1cdaa5bad8cf8878f6ddb68d3ce6d0cd49ca3)
+- [日志轮转状态检查脚本，检测日志切割异常告警](https://github.com/devgraceedwards/lACPwi/commit/794e95939c877db1f38946455757a46cc599c6fb)
