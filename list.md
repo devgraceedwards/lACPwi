@@ -77,3 +77,4 @@
 - [车企自研车载系统车企自研与第三方方案博弈现状](https://github.com/devgraceedwards/lACPwi/commit/deb115ce53d481cd10631795b0910e90b2b42b3b)
 - [对抗性样本物理攻击，摄像头传感器诱导欺骗](https://github.com/devgraceedwards/lACPwi/commit/09509e91ef6dd2bc03fda04d965ee94edce60989)
 - [Serverless冷启动优化，函数实例复用策略](https://github.com/devgraceedwards/lACPwi/commit/d2a235960eda5c72695e210bcc2400701741c833)
+- [业务仿真 Demo 开源工程 完整源码覆盖多环境故障处理](https://github.com/devgraceedwards/lACPwi/commit/b1914fa2089c7ee3ac3d88f11fbdfc29d9027e15)
