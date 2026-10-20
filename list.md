@@ -39,3 +39,4 @@
 - [Fork之后社区接管，继任维护者交接流程](https://github.com/devgraceedwards/lACPwi/commit/4af4c10213cee994ab9ed38d4dc1c604a66a6585)
 - [信号量实现开源工程 完整源码信号量并发控制示例](https://github.com/devgraceedwards/lACPwi/commit/c3ac843e3a31ca6dcdd69d375703a45b26fadcee)
 - [灵活就业人员退休年龄，多大年龄可以办理退休](https://github.com/devgraceedwards/lACPwi/commit/7d4a78b1c48132d6ca920a78cb726857d04ae3dc)
+- [巨型低轨卫星星座网络时延抖动业务适配](https://github.com/devgraceedwards/lACPwi/commit/6b7f3d2d868ef38e01ceb8682be1c309ae88877b)
