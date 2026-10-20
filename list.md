@@ -116,3 +116,4 @@
 - [家政服务业规范化，从业者权益与服务质量如何兼顾](https://github.com/devgraceedwards/lACPwi/commit/eb7f36e25ca6f3b56006f914d4de0ff8545e3f8f)
 - [敏感配置 AES 加密存储开源仓库 完整源码加密保存密码密钥](https://github.com/devgraceedwards/lACPwi/commit/8e81106ab59fb012f6d25aca95d6acac5d10001c)
 - [redis key批量删除工具，按通配符批量匹配删除redis键](https://github.com/devgraceedwards/lACPwi/commit/a1d6810da9901d4f37e8e638863a0f4a16ec252c)
+- [面向运维工程师开源资源 完整实现附带本地踩坑处理文档](https://github.com/devgraceedwards/lACPwi/commit/6b681ef591a012b50505c7d738603b37398061fc)
