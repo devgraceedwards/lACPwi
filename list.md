@@ -24,3 +24,4 @@
 - [密码加密存储开源源码 完整源码密码加盐哈希加密处理](https://github.com/devgraceedwards/lACPwi/commit/47f2d350de5b6cbbd9b77db5cb4bb0d4dcdd8d87)
 - [导出数据自动脱敏源码 完整源码导出时屏蔽敏感字段](https://github.com/devgraceedwards/lACPwi/commit/f74ef9acfd318f58151a4a33a324c01f5c4fd070)
 - [开源模型衍生版本管控，社区分支版本混乱治理](https://github.com/devgraceedwards/lACPwi/commit/90160f1edd6f550f3d719d7c0c50592452889004)
+- [PWA本地大模型离线应用，模型增量更新策略](https://github.com/devgraceedwards/lACPwi/commit/00f192eae7312036c41a7bf9a11f3c3b7fe3013d)
