@@ -193,3 +193,4 @@
 - [数据要素政策频频落地，真正赚钱依旧遥遥无期](https://github.com/devgraceedwards/lACPwi/commit/88a755386e186c08fffcfa802ac7785cc53e2cb0)
 - [系统字体枚举工具，枚举系统全部字体名称路径导出csv](https://github.com/devgraceedwards/lACPwi/commit/3805ca470782f5017f19b50d6c68d745c45b3dbf)
 - [AI项目全成本核算，标注人力隐性成本统计](https://github.com/devgraceedwards/lACPwi/commit/7c71584064d8bdd78caa4cdfab55a0e1171a12e1)
+- [代码知识库构建，大型私有仓库代码知识图谱](https://github.com/devgraceedwards/lACPwi/commit/f5219ad265ea484c2da5fa2686d06316cf5cb052)
