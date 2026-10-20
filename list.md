@@ -165,3 +165,4 @@
 - [webp动画拆解工具，把webp动图拆成单帧图片序列](https://github.com/devgraceedwards/lACPwi/commit/4a55fe19743a09b5410c6c736c4ae939426b8d12)
 - [微短剧红利逐步消退，新人入场很难分得蛋糕](https://github.com/devgraceedwards/lACPwi/commit/b3bd39279da9806b05bd15f2d07f1c87b2f20fdd)
 - [简单滑动窗口限流开源工程 完整源码演示滑动窗口限流算法](https://github.com/devgraceedwards/lACPwi/commit/717e48f925ab19394e0d3f2aed6682ff2eca4e13)
+- [部分新兴概念，距离大规模商业化落地还有很长距离](https://github.com/devgraceedwards/lACPwi/commit/e4b962cd8f984782c516976fcc28222ad17bd78e)
