@@ -48,3 +48,4 @@
 - [MQ 消息重试处理开源 Demo 完整源码消息消费失败重试逻辑](https://github.com/devgraceedwards/lACPwi/commit/01dc6549bf2186cea1a1340946ebc74fbee7b874)
 - [LFU 缓存手写 Demo 完整源码频率淘汰缓存实现](https://github.com/devgraceedwards/lACPwi/commit/fffe352bf6c5fe502362c5203e9865e060ca59f2)
 - [多实例任务互斥锁源码 完整源码避免多服务重复执行任务](https://github.com/devgraceedwards/lACPwi/commit/ae4c419daa06aeb136996f21404866f215746297)
+- [协程任务超时自动终止源码 完整源码避免协程任务卡死](https://github.com/devgraceedwards/lACPwi/commit/77c1366ff4454e39c2c079870b3b551bad2e33f3)
