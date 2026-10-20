@@ -86,3 +86,4 @@
 - [GitHub 开源知识库调整结构优化蜘蛛遍历](https://github.com/devgraceedwards/lACPwi/commit/be261681e672299b92ff27afa91ad02efba52139)
 - [工业废气资源化利用环保企业从治理转向资源回收](https://github.com/devgraceedwards/lACPwi/commit/e718ee2ca474fcb63b4bc6d558851affb217208c)
 - [AI FinOps成本分摊，多业务团队算力计量方案](https://github.com/devgraceedwards/lACPwi/commit/f24b69cd3c5a29480799b729ac90d558ba9cdae4)
+- [精密工业视觉大模型，高光反光环境识别失效](https://github.com/devgraceedwards/lACPwi/commit/8800396782663554ec6988287d2806ef242d51f9)
