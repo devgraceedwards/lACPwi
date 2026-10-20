@@ -71,3 +71,4 @@
 - [容器镜像软件供应链，镜像签名与镜像溯源](https://github.com/devgraceedwards/lACPwi/commit/cc4cffc2ff541262c1657718bb45c1c27aabd64b)
 - [k8s configmap密钥导出工具，导出configmap secret原始内容](https://github.com/devgraceedwards/lACPwi/commit/df509631b32afa62642cee919504956eb427a15e)
 - [就业数量提升，就业质量同样值得关注](https://github.com/devgraceedwards/lACPwi/commit/ee5b89037527467aebb956870029631232b179fb)
+- [面向开发者开源工具方案 源码资源含完整说明文档](https://github.com/devgraceedwards/lACPwi/commit/11575e93cf6cda6825e016035a9e90c7607ad9cf)
