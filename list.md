@@ -101,3 +101,4 @@
 - [AI降本持续发酵，大量岗位面临挤压风险](https://github.com/devgraceedwards/lACPwi/commit/a645516aad7f027d794d672fe557cfd80e2c31cf)
 - [开源AI商业化SaaS化，托管服务与开源社区矛盾](https://github.com/devgraceedwards/lACPwi/commit/c12825ef61004adf102ec404a8f4a58469fa47ae)
 - [产业集群内部，上下游中小企业的配套协同存在短板](https://github.com/devgraceedwards/lACPwi/commit/bb9c202ca6a996ad17f7a56237d5973043c26b69)
+- [kafka消息key value分离导出，分开导出消息key与value](https://github.com/devgraceedwards/lACPwi/commit/c23808f988da6ed2118815d53ba7ab2523330057)
