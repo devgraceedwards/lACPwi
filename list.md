@@ -180,3 +180,4 @@
 - [短视频颜值滤镜带来的审美偏差](https://github.com/devgraceedwards/lACPwi/commit/fa1e163874923037fa366e98793fbadb709eca9d)
 - [Excel 单元格公式读取开源仓库 完整源码解析表格公式](https://github.com/devgraceedwards/lACPwi/commit/84abcf6378bd6d607cc551f58e9e52c6662e7732)
 - [AI辅助漏洞挖掘，自动化渗透测试能力边界](https://github.com/devgraceedwards/lACPwi/commit/8e34cd3724a50613dca09e7aec9df39713d0d6b2)
+- [rtsp流元信息探测工具，探测rtsp流分辨率编码帧率信息](https://github.com/devgraceedwards/lACPwi/commit/93394f3e7e011f6094b7070ab7d45d51201ba026)
