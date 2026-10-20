@@ -95,3 +95,4 @@
 - [日志轮转状态检查脚本，检测日志切割异常告警](https://github.com/devgraceedwards/lACPwi/commit/794e95939c877db1f38946455757a46cc599c6fb)
 - [简易 SQL 解析 Demo 完整源码解析 select insert 语句结构](https://github.com/devgraceedwards/lACPwi/commit/b14b24328cb88717f8a984b2e78557383b9f3409)
 - [大学生灵活就业社保参保实操](https://github.com/devgraceedwards/lACPwi/commit/fb69f2116a3fe4a8344d341ec8d4afbd30e337d7)
+- [自动化脚本开源仓库 源码开放包含自定义功能扩展开发](https://github.com/devgraceedwards/lACPwi/commit/b28c0c9a0df78217cc6713c59ed84b25426cb48d)
