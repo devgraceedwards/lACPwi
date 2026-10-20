@@ -87,3 +87,4 @@
 - [工业废气资源化利用环保企业从治理转向资源回收](https://github.com/devgraceedwards/lACPwi/commit/e718ee2ca474fcb63b4bc6d558851affb217208c)
 - [AI FinOps成本分摊，多业务团队算力计量方案](https://github.com/devgraceedwards/lACPwi/commit/f24b69cd3c5a29480799b729ac90d558ba9cdae4)
 - [精密工业视觉大模型，高光反光环境识别失效](https://github.com/devgraceedwards/lACPwi/commit/8800396782663554ec6988287d2806ef242d51f9)
+- [GitHub 实战开源源码 项目案例配套环境适配文档](https://github.com/devgraceedwards/lACPwi/commit/c217cb3ed0babbc48d958009aeec39d79c0d3ffb)
