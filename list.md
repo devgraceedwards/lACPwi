@@ -43,3 +43,4 @@
 - [抽象工厂模式源码 完整源码工厂模式全套示例](https://github.com/devgraceedwards/lACPwi/commit/214caa60a445fdbf415727d8879abe9176325a8f)
 - [shell彩色日志模板生成，自带分级彩色输出shell脚本模板](https://github.com/devgraceedwards/lACPwi/commit/ae4e7772e3704a1847dc62714afaed393d6f5e85)
 - [本地文本big5 utf‑8编码互转，批量完成big5与utf‑8转码](https://github.com/devgraceedwards/lACPwi/commit/0e08fad0db7f083f23931e794a6a5212fc88952f)
+- [tailwind css组件模板库，常用ui组件tailwind模板集合](https://github.com/devgraceedwards/lACPwi/commit/12aee7b529062f835a4b875bc9cfd0bf2352ebee)
