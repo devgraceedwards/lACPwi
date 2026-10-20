@@ -37,3 +37,4 @@
 - [简单分页逻辑开源 Demo 完整源码演示后端分页实现方案](https://github.com/devgraceedwards/lACPwi/commit/34d68249a25e84484b54b790b44d6bd6efa884fb)
 - [Actions第三方市场Action安全隐患，恶意Action窃取数据](https://github.com/devgraceedwards/lACPwi/commit/14ca7208ee7ab25e5f33f09230a88fb96b6b88af)
 - [Fork之后社区接管，继任维护者交接流程](https://github.com/devgraceedwards/lACPwi/commit/4af4c10213cee994ab9ed38d4dc1c604a66a6585)
+- [信号量实现开源工程 完整源码信号量并发控制示例](https://github.com/devgraceedwards/lACPwi/commit/c3ac843e3a31ca6dcdd69d375703a45b26fadcee)
