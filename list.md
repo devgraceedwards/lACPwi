@@ -117,3 +117,4 @@
 - [敏感配置 AES 加密存储开源仓库 完整源码加密保存密码密钥](https://github.com/devgraceedwards/lACPwi/commit/8e81106ab59fb012f6d25aca95d6acac5d10001c)
 - [redis key批量删除工具，按通配符批量匹配删除redis键](https://github.com/devgraceedwards/lACPwi/commit/a1d6810da9901d4f37e8e638863a0f4a16ec252c)
 - [面向运维工程师开源资源 完整实现附带本地踩坑处理文档](https://github.com/devgraceedwards/lACPwi/commit/6b681ef591a012b50505c7d738603b37398061fc)
+- [github仓库action复用workflow展开解析，解析调用复用workflow完整内容](https://github.com/devgraceedwards/lACPwi/commit/f539e4009e522e9bb236a99d2bff67d1b47bcec1)
