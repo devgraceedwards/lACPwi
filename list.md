@@ -76,3 +76,4 @@
 - [企业税负、社保、房租，共同构成中小微的经营成本](https://github.com/devgraceedwards/lACPwi/commit/7e6b8f3352c9506ee76fda39062f8ca14081b813)
 - [车企自研车载系统车企自研与第三方方案博弈现状](https://github.com/devgraceedwards/lACPwi/commit/deb115ce53d481cd10631795b0910e90b2b42b3b)
 - [对抗性样本物理攻击，摄像头传感器诱导欺骗](https://github.com/devgraceedwards/lACPwi/commit/09509e91ef6dd2bc03fda04d965ee94edce60989)
+- [Serverless冷启动优化，函数实例复用策略](https://github.com/devgraceedwards/lACPwi/commit/d2a235960eda5c72695e210bcc2400701741c833)
