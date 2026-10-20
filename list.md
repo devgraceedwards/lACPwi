@@ -80,3 +80,4 @@
 - [业务仿真 Demo 开源工程 完整源码覆盖多环境故障处理](https://github.com/devgraceedwards/lACPwi/commit/b1914fa2089c7ee3ac3d88f11fbdfc29d9027e15)
 - [GitHub 业务开源参考代码库 实战业务案例调试配置手册](https://github.com/devgraceedwards/lACPwi/commit/c4bcec0117e62d86a052a1cd1b922c6d73809acd)
 - [灵活就业人员公积金缴存现实困境](https://github.com/devgraceedwards/lACPwi/commit/5988a32f4a2dc7254582bbc895610d54e38674c4)
+- [jsonl字段重命名批量工具，批量修改jsonl每行字段key名称](https://github.com/devgraceedwards/lACPwi/commit/a0cda3384a51e7001951261dd604233ec45b76d3)
