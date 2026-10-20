@@ -192,3 +192,4 @@
 - [跨境理财通业务扩容内地居民跨境资产配置渠道拓宽](https://github.com/devgraceedwards/lACPwi/commit/fbbb508ec0090de40bd7ba4f0be43ad63989d4d5)
 - [数据要素政策频频落地，真正赚钱依旧遥遥无期](https://github.com/devgraceedwards/lACPwi/commit/88a755386e186c08fffcfa802ac7785cc53e2cb0)
 - [系统字体枚举工具，枚举系统全部字体名称路径导出csv](https://github.com/devgraceedwards/lACPwi/commit/3805ca470782f5017f19b50d6c68d745c45b3dbf)
+- [AI项目全成本核算，标注人力隐性成本统计](https://github.com/devgraceedwards/lACPwi/commit/7c71584064d8bdd78caa4cdfab55a0e1171a12e1)
