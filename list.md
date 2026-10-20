@@ -183,3 +183,4 @@
 - [rtsp流元信息探测工具，探测rtsp流分辨率编码帧率信息](https://github.com/devgraceedwards/lACPwi/commit/93394f3e7e011f6094b7070ab7d45d51201ba026)
 - [文件去重清理开源仓库 完整源码批量删除重复文件](https://github.com/devgraceedwards/lACPwi/commit/bf0d659360ea788e86e12dae8f505fd8a734032a)
 - [保险资管产品扩容长线资金丰富资产配置工具选择](https://github.com/devgraceedwards/lACPwi/commit/7a8a6c3b549d9b1bb70698da1a13160a135087c3)
+- [接口幂等性 token 开源工程 完整源码幂等 token 防止重复请求](https://github.com/devgraceedwards/lACPwi/commit/5bc82efbe0e85cd10f722954095227d0da0ddb16)
