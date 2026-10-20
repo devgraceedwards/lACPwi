@@ -108,3 +108,4 @@
 - [国内黄金现货需求旺盛金价高位之下实物黄金消费韧性](https://github.com/devgraceedwards/lACPwi/commit/a395d4c973b0b4614969d0f003214f43982ec82b)
 - [工业软件国产提速研发类软件突破打开巨大市场空间](https://github.com/devgraceedwards/lACPwi/commit/d62e6abf0dfc40e43b81576980baae77747e569c)
 - [别迷信高股息避险，市场杀跌照样大幅亏损](https://github.com/devgraceedwards/lACPwi/commit/517d6ac7095dd1ef0236fdf2a0538062b791c5da)
+- [港股持续反弹，普通投资者慎追高](https://github.com/devgraceedwards/lACPwi/commit/2ff680f3ad3984f47c8a91c5f33af630ac1d9460)
