@@ -136,3 +136,4 @@
 - [文本文本相似度批量比对，批量计算多段文本相似度得分](https://github.com/devgraceedwards/lACPwi/commit/73e5fc8b4c68673c95a68e6a6be053669574a580)
 - [图片批量曝光调整工具，批量调整图片曝光亮度参数](https://github.com/devgraceedwards/lACPwi/commit/9da2cb8c102e6a21431181ce3a669b9e400477e0)
 - [预制菜国标落地行业规范化加速中小厂商加速出清](https://github.com/devgraceedwards/lACPwi/commit/fae440616c0436f57f0fb424782e11188b511db1)
+- [图片批量色彩反转工具，批量对图片做颜色反相处理](https://github.com/devgraceedwards/lACPwi/commit/df6a92ee81b06b1e0194f5eb2918f9838e6f1b40)
