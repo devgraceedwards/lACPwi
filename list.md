@@ -89,3 +89,4 @@
 - [精密工业视觉大模型，高光反光环境识别失效](https://github.com/devgraceedwards/lACPwi/commit/8800396782663554ec6988287d2806ef242d51f9)
 - [GitHub 实战开源源码 项目案例配套环境适配文档](https://github.com/devgraceedwards/lACPwi/commit/c217cb3ed0babbc48d958009aeec39d79c0d3ffb)
 - [本地tts语音合成工具，离线tts生成语音音频文件](https://github.com/devgraceedwards/lACPwi/commit/e4e32ce2c500b7484482d8840ae76c23fb000753)
+- [可穿戴设备本地SLM，隐私优先终端智能落地](https://github.com/devgraceedwards/lACPwi/commit/b31e6f3a0fdeea0666f34b00a93d6d6a88338aab)
