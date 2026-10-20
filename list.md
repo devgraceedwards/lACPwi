@@ -99,3 +99,4 @@
 - [GitHub仓库Webhook失败事件重放脚本](https://github.com/devgraceedwards/lACPwi/commit/6f94f712c1bb309725cd129eb0abfece6cd78c49)
 - [Helm Chart质量参差不齐，第三方Chart安全风险](https://github.com/devgraceedwards/lACPwi/commit/0a6435e09347a2b63b244f8f81f5c7bc3ae312fe)
 - [AI降本持续发酵，大量岗位面临挤压风险](https://github.com/devgraceedwards/lACPwi/commit/a645516aad7f027d794d672fe557cfd80e2c31cf)
+- [开源AI商业化SaaS化，托管服务与开源社区矛盾](https://github.com/devgraceedwards/lACPwi/commit/c12825ef61004adf102ec404a8f4a58469fa47ae)
