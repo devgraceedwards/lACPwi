@@ -167,3 +167,4 @@
 - [简单滑动窗口限流开源工程 完整源码演示滑动窗口限流算法](https://github.com/devgraceedwards/lACPwi/commit/717e48f925ab19394e0d3f2aed6682ff2eca4e13)
 - [部分新兴概念，距离大规模商业化落地还有很长距离](https://github.com/devgraceedwards/lACPwi/commit/e4b962cd8f984782c516976fcc28222ad17bd78e)
 - [APP过度索取权限，如何拒绝APP不合理权限申请](https://github.com/devgraceedwards/lACPwi/commit/85c71b1a4936c8d00310513ace6272f31c4ec335)
+- [私募S基金活跃度提升一级市场二手份额交易兴起](https://github.com/devgraceedwards/lACPwi/commit/19866f166b624ab485dc9eff9261ee7d118c94ec)
