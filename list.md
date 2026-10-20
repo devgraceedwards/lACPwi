@@ -113,3 +113,4 @@
 - [企业利润创下新高，股价却一路节节败退](https://github.com/devgraceedwards/lACPwi/commit/927c0118176dd79c038cdd700f234817a3976ca5)
 - [系统open文件监控工具，实时监控进程打开关闭文件事件](https://github.com/devgraceedwards/lACPwi/commit/45dedcbb23ef72749f15aa65f3bef21583654955)
 - [人才房退出机制完善，防止福利套利现象](https://github.com/devgraceedwards/lACPwi/commit/667c288a43567c118a7c0b546571781a9f22245a)
+- [家政服务业规范化，从业者权益与服务质量如何兼顾](https://github.com/devgraceedwards/lACPwi/commit/eb7f36e25ca6f3b56006f914d4de0ff8545e3f8f)
