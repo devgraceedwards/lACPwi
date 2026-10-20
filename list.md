@@ -173,3 +173,4 @@
 - [磁盘重复文件查找工具，全盘扫描释放磁盘空间脚本](https://github.com/devgraceedwards/lACPwi/commit/a6aea685349c6a2ec5e7f1a5dbda716bcf6c105b)
 - [全球地缘冲突，持续扰动大宗商品与外贸环境](https://github.com/devgraceedwards/lACPwi/commit/43b85197a3b72dff63d6e410d8c954f47e51aec5)
 - [数据库读写分离模拟源码 完整源码主写从读访问逻辑](https://github.com/devgraceedwards/lACPwi/commit/cee1aa86055ced99e943c55e54ca17bf02fdc60c)
+- [GitHub 表格开源参考代码库 实战 Demo 案例调试配置手册](https://github.com/devgraceedwards/lACPwi/commit/330220455dda25d5e14df749d2b89ed7afc9635c)
