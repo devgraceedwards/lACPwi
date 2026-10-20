@@ -19,3 +19,4 @@
 - [时间日期格式化模板开源仓库 完整源码多格式时间输出](https://github.com/devgraceedwards/lACPwi/commit/65854e934c9d55f37dcaa4e9c49653036fbc3dfa)
 - [存款利率持续探底，老百姓依旧疯狂存钱](https://github.com/devgraceedwards/lACPwi/commit/7cdcb2ddc55a312ccb410dbab0f381c7ffaa13fb)
 - [开箱即用接口模拟开源脚本 完整源码搭配接口调用演示](https://github.com/devgraceedwards/lACPwi/commit/8b720c31bf8effd90e4357213430517965f0e743)
+- [字幕编码修复工具，批量转UTF‑8解决字幕乱码](https://github.com/devgraceedwards/lACPwi/commit/4b89bc86b735cfe3f74e288862d15a14f9aeaf97)
