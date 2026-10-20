@@ -124,3 +124,4 @@
 - [县域文旅IP打造，破解千村一面同质化问题](https://github.com/devgraceedwards/lACPwi/commit/0b993c062591ee2390a31b91ecf1e2147f94b485)
 - [安置房能不能买卖购买安置房存在哪些重大风险](https://github.com/devgraceedwards/lACPwi/commit/117cef2f881f0b3e6821b6ad465a3c3f18c872df)
 - [异构算力集群混合调度GPU/NPU/ASIC实践](https://github.com/devgraceedwards/lACPwi/commit/68ceb565085eb1ed0bc9fa7119012bfe15fbbf48)
+- [并查集实现开源仓库 完整源码合并查找集合逻辑](https://github.com/devgraceedwards/lACPwi/commit/6bec7717548e5630faff7e4b4ce9bd9ea382b075)
