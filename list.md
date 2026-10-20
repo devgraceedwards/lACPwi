@@ -119,3 +119,4 @@
 - [面向运维工程师开源资源 完整实现附带本地踩坑处理文档](https://github.com/devgraceedwards/lACPwi/commit/6b681ef591a012b50505c7d738603b37398061fc)
 - [github仓库action复用workflow展开解析，解析调用复用workflow完整内容](https://github.com/devgraceedwards/lACPwi/commit/f539e4009e522e9bb236a99d2bff67d1b47bcec1)
 - [开源知识库文档章节之间做好互相内链跳转](https://github.com/devgraceedwards/lACPwi/commit/be58d3e7aa761f6dd170164137cc7bfbcc2d55f7)
+- [体重管理消费规范化，减肥产品陷阱整治](https://github.com/devgraceedwards/lACPwi/commit/de24ffed0f223a1be2685b6c4b231f7085178c4f)
