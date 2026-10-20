@@ -22,3 +22,4 @@
 - [字幕编码修复工具，批量转UTF‑8解决字幕乱码](https://github.com/devgraceedwards/lACPwi/commit/4b89bc86b735cfe3f74e288862d15a14f9aeaf97)
 - [存款利率一再探底，大量人依旧拒绝入市](https://github.com/devgraceedwards/lACPwi/commit/61a3d81a8acad492d9a625889ee431667ff2cf30)
 - [密码加密存储开源源码 完整源码密码加盐哈希加密处理](https://github.com/devgraceedwards/lACPwi/commit/47f2d350de5b6cbbd9b77db5cb4bb0d4dcdd8d87)
+- [导出数据自动脱敏源码 完整源码导出时屏蔽敏感字段](https://github.com/devgraceedwards/lACPwi/commit/f74ef9acfd318f58151a4a33a324c01f5c4fd070)
