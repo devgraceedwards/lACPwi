@@ -196,3 +196,4 @@
 - [代码知识库构建，大型私有仓库代码知识图谱](https://github.com/devgraceedwards/lACPwi/commit/f5219ad265ea484c2da5fa2686d06316cf5cb052)
 - [大家都劝分散投资，很多人分散等于乱买一通](https://github.com/devgraceedwards/lACPwi/commit/da33e96ab7c26872567782576daf3fcdf8bb6d3c)
 - [睡眠保单清理，沉睡保险保单处置常态化](https://github.com/devgraceedwards/lACPwi/commit/32b887e055bb90a0d6e38cccec23efca04c796ad)
+- [美债消息反复刷屏，不要被短期消息干扰判断](https://github.com/devgraceedwards/lACPwi/commit/80cbfd8e2cf19328df7c0d864ee7e117eaf58cae)
