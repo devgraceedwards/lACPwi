@@ -53,3 +53,4 @@
 - [简易灰度发布模拟开源仓库 完整源码演示流量分发逻辑](https://github.com/devgraceedwards/lACPwi/commit/0276f5f3d129bae0dd196c77c64dde3fd9d91a16)
 - [文本相似度打分工程 完整源码计算两段文本相似分值](https://github.com/devgraceedwards/lACPwi/commit/3ad082f888ffc49c6fbdcb81a37a080df88b3928)
 - [宏观政策的传导链条长，政策效果不会立刻显现](https://github.com/devgraceedwards/lACPwi/commit/cd92c85ba4bc95badedf480533082ae9dd762257)
+- [powershell文件校验比对模板，递归计算目录哈希做文件校验](https://github.com/devgraceedwards/lACPwi/commit/30b951a1f08475838d88c48656c6e8d262ccbfd8)
