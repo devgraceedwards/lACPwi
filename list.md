@@ -44,3 +44,4 @@
 - [shell彩色日志模板生成，自带分级彩色输出shell脚本模板](https://github.com/devgraceedwards/lACPwi/commit/ae4e7772e3704a1847dc62714afaed393d6f5e85)
 - [本地文本big5 utf‑8编码互转，批量完成big5与utf‑8转码](https://github.com/devgraceedwards/lACPwi/commit/0e08fad0db7f083f23931e794a6a5212fc88952f)
 - [tailwind css组件模板库，常用ui组件tailwind模板集合](https://github.com/devgraceedwards/lACPwi/commit/12aee7b529062f835a4b875bc9cfd0bf2352ebee)
+- [电竞产业商业化提速赛事周边带动全新消费市场](https://github.com/devgraceedwards/lACPwi/commit/a241c0d0dab1fe7ac8296479746c04792f9b2ecb)
