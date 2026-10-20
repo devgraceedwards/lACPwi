@@ -147,3 +147,4 @@
 - [水产养殖现代化升级设施渔业发展带来产业链全新机遇](https://github.com/devgraceedwards/lACPwi/commit/672adaa763583935deaa8dcb6de890e4094ebecd)
 - [AI代码评审局限性，容易放过深层逻辑漏洞](https://github.com/devgraceedwards/lACPwi/commit/4ab00c363ed001b5309cbfbd955e3f7c440435e2)
 - [分布式储能配套智算，削峰填谷降低用电成本](https://github.com/devgraceedwards/lACPwi/commit/b2175a4d4894c78831ca850bb2db0ddc0016f101)
+- [AI辅助新型电解质筛选，材料仿真算力开销管控](https://github.com/devgraceedwards/lACPwi/commit/586c170059abcaf68c6db03f65df51f703176244)
