@@ -132,3 +132,4 @@
 - [跨境产业链重构，国内企业需要重新找准自身定位](https://github.com/devgraceedwards/lACPwi/commit/50c71c7d6611a880801b77e2f257a3db37aa6972)
 - [数据清洗转换脚本开源仓库 可运行源码附带数据集演示样例](https://github.com/devgraceedwards/lACPwi/commit/c872db0341c04acfc47e0700db67981d38a54d6f)
 - [powershell磁盘文件占用分析脚本，统计各目录磁盘占用大小](https://github.com/devgraceedwards/lACPwi/commit/e278cc2df73340127682e4f3a03fb8b61c06aca2)
+- [github仓库fork层级溯源导出，递归追溯fork仓库上游源仓库链](https://github.com/devgraceedwards/lACPwi/commit/d7226e25e12e0294836a0b36778f0f42fe20c1d3)
