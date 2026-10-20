@@ -159,3 +159,4 @@
 - [维护者收到生产故障求助，无义务处理线上事故](https://github.com/devgraceedwards/lACPwi/commit/219379221eb9470c188b548d430e46cd9d360080)
 - [GitHub Pages 不使用原生域名做百度优化](https://github.com/devgraceedwards/lACPwi/commit/92bc640d83af6e4dcaa2861ec62041f381817254)
 - [企业生存压力加大，倒逼行业加速优胜劣汰](https://github.com/devgraceedwards/lACPwi/commit/aebcbd2bfdb83560bdf80cfc65cba3efcdcd2348)
+- [Rebase强制推送，公共分支被改写造成团队冲突](https://github.com/devgraceedwards/lACPwi/commit/6b11f8e4d8acb8da26b1010c2c068a43232e2d1c)
